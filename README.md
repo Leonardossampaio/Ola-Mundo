@@ -1,11 +1,11 @@
 # Primeiro repositório versionado do curso Git e GitHub. Programa - Olá, Mundo!!
 
-### Esse repositório tem como objetivo criar um algoritmo que crie uma forma avançada de exibir em tela o PROGRAMA OLÁ MUNDO!
+## Esse repositório tem como objetivo criar um algoritmo que crie uma forma avançada de exibir em tela o PROGRAMA OLÁ MUNDO!
 
 ### Serão seguidos os seguintes passos antes da criaçao do programa:
 
  1. Finalizar o curso Git e GitHub. 
-    - progresso do curso ▩▩▩▩▩▩▩▩▩▩❏❏❏❏❏
+    - progresso do curso ▩▩▩▩▩▩▩▩▩▩▩▩▩▩❏
     
  2. Atualizar esse README.md com as formatações aprendidas no curso.
  3. Estruturar a sequencia lógica para o desenvolvimento do programa.
